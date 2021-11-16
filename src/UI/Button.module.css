@@ -1,0 +1,24 @@
+.button {
+	display: block;
+	width: 100%;
+	max-width: 330px;
+	height: 55px;
+	line-height: 55px;
+	padding: 0 40px;
+	margin: auto;
+	margin-top: 30px;
+	text-align: center;
+	border-radius: 8px;
+	color: #fff;
+	font-size: 22px;
+	background-color: #00d68f;
+	border-color: #00d68f;
+	font-family: Vazir, tahoma, serif;
+	cursor: pointer;
+}
+.button:hover,
+.button:active,
+button:focus {
+	background-color: #00b887;
+	border-color: #00b887;
+}

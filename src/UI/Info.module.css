@@ -1,0 +1,21 @@
+.info {
+	padding: 30px;
+	height: 300px;
+	width: 400px;
+    border-color: 20px;
+	background-color: #fff;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	box-shadow: 0 30px 60px 0 rgb(0 0 0 / 16%);
+	font-size: 20px;
+    line-height: 30px;
+	text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
